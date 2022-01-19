@@ -1,0 +1,39 @@
+{
+  "name": "GoBulls #349",
+  "description": "1024 Unique GoBulls NFTs",
+  "image": "https://gobullsclub.github.io/images/349.png",
+  "dna": "6ebbb9cba567cb00eb3405ad321a47d6528e53d5",
+  "edition": 349,
+  "date": 1641901508585,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background14"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Face7"
+    },
+    {
+      "trait_type": "Structure",
+      "value": "Structure5"
+    },
+    {
+      "trait_type": "NoseRing",
+      "value": "NoseRing6"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes8"
+    },
+    {
+      "trait_type": "3rdEye",
+      "value": "3rdEye7"
+    },
+    {
+      "trait_type": "Horn",
+      "value": "Horn10"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
